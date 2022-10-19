@@ -1,0 +1,23 @@
+seetaface-tracker (1.0.0.2-1+dde) UNRELEASED; urgency=medium
+
+  * update
+
+ -- bd <bd@seetatech.com>  Thu, 28 Apr 2022 20:46:18 +0800
+
+seetaface-tracker (1.0.0.2-1+dde) unstable; urgency=medium
+
+  * Fix conflict files with seetaface-boxes
+
+ -- chenlinxuan <chenlinxuan@uniontech.com>  Fri, 10 Dec 2021 13:25:23 +0800
+
+seetaface-tracker (1.0.0.1-1+dde) unstable; urgency=medium
+
+  * Fix build issue
+
+ -- chenlinxuan <chenlinxuan@uniontech.com>  Thu, 09 Dec 2021 21:00:26 +0800
+
+seetaface-tracker (1.0.0-1) unstable; urgency=medium
+
+  * Initial release 
+
+ -- liujianqing <liujianqiang@uniontech.com>  Fri, 03 Dec 2021 17:08:50 +0800
